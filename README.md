@@ -1,5 +1,5 @@
 # Speed-Detection-and-Toll-Booth-KL25Z
-# Speed Detection and Toll Booth System (FRDM-KL25Z)
+
 
 A radar-inspired speed detection and highway toll booth demo built with **Embedded C** on the **FRDM-KL25Z**.  
 The system uses an **ultrasonic sensor** for distance/time measurement, a **servo motor** for toll gate control, and an **LCD** to display speed and system messages. A **potentiometer** sets the speed limit via the MCU’s **ADC**, enabling an interactive driver experience based on their speed.
